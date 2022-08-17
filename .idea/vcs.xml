@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BaiTap/fake-api-app-redux-saga-to-get-user-and-delete-user" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/fake-api-app-redux-thunk-to-get-add-update-posts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThucHanh/1.app-redux-saga" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThucHanh/2.app-reduc-thunk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux" vcs="Git" />
+  </component>
+</project>
